@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**Naamsukh/Naamsukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Naamsukh Jobanputra 💻
 
-Here are some ideas to get you started:
+Software Engineer at Jeavio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about **engineering** and **problem-solving** through software. Currently, I'm putting these skills to work as a Software Engineer at **Jeavio**.
+I'm fascinated by numbers—whether it's in engineering or in life, numbers play a key role in everything I do.I am deeply interested in **business** and how it working.
+
+Welcome to my GitHub! Feel free to explore my projects and reach out if you share similar interests.
+
+
+![Naamsukh's github stats](https://github-readme-stats.vercel.app/api/?username=Naamsukh&show_icons=true&title_color=ffd1dc&icon_color=79ff97&text_color=ffd1dc&bg_color=151515)
+
+<h3 align="left">Find me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/naamsukh-jobanputra-1783601b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naamsukh-jobanputra-1783601b1/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/naamsukh_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/naamsukh_/" height="30" width="40" /></a>
+<a href="https://medium.com/@naamsukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@naamsukh" height="30" width="40" /></a>
+<a href="https://x.com/Naamsukh2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/Naamsukh2" height="30" width="40" /></a>
+</p>
