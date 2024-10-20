@@ -10,7 +10,7 @@ I'm fascinated by numbers—whether it's in engineering or in life, numbers play
 Welcome to my GitHub! Feel free to explore my projects and reach out if you share similar interests.
 
 
-![Naamsukh's github stats](https://github-readme-stats.vercel.app/api/?username=Naamsukh&show_icons=true&title_color=ffd1dc&icon_color=79ff97&text_color=ffd1dc&bg_color=151515)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Naamsukh&theme=dracula&hide_border=true&border_radius=12.2)](https://git.io/streak-stats)
 
 <h3 align="left">Find me:</h3>
 <p align="left">
