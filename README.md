@@ -4,8 +4,8 @@ I am Naamsukh Jobanputra 💻
 
 Software Engineer at Mega AI
 
-I'm passionate about **engineering** and **problem-solving** through software. Currently, I'm putting these skills to work as a Software Engineer at **Mega AI**.
-I'm fascinated by numbers—whether it's in engineering or in life, numbers play a key role in everything I do.I am deeply interested in **business** and how it working.
+I am passionate about **engineering** and **problem-solving** through software. Currently, I am putting these skills to work as a Software Engineer at **Mega AI**.
+I am fascinated by numbers—whether it's in engineering or in life, numbers play a key role in everything I do.I am deeply interested in **business** and how it working.
 
 Welcome to my GitHub! Feel free to explore my projects and reach out if you share similar interests.
 
