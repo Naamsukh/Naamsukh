@@ -14,8 +14,16 @@ Welcome to my GitHub! Feel free to explore my projects and reach out if you shar
 
 <h3 align="left">Find me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/naamsukh-jobanputra-1783601b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naamsukh-jobanputra-1783601b1/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/naamsukh_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/naamsukh_/" height="30" width="40" /></a>
-<a href="https://medium.com/@naamsukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@naamsukh" height="30" width="40" /></a>
-<a href="https://x.com/Naamsukh2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/Naamsukh2" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/naamsukh-jobanputra-1783601b1/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/naamsukh_/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+<a href="https://medium.com/@naamsukh" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
+</a>
+<a href="https://x.com/Naamsukh2/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
 </p>
