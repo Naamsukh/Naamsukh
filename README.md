@@ -12,18 +12,6 @@ Welcome to my GitHub! Feel free to explore my projects and reach out if you shar
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Naamsukh&hide_border=true&border_radius=12.2)](https://git.io/streak-stats)
 
-<h3 align="left">Find me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/naamsukh-jobanputra-1783601b1/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/naamsukh_/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-<a href="https://medium.com/@naamsukh" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
-</a>
-<a href="https://x.com/Naamsukh2/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-</p>
+### Find me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naamsukh-jobanputra-1783601b1/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naamsukh_/) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Naamsukh2/)
