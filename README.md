@@ -2,7 +2,7 @@
 
 I am Naamsukh Jobanputra 💻
 
-AI Engineer at Oolka AI
+Senior AI Engineer at Oolka AI
 
 I am passionate about **engineering** and **problem-solving** through software. Currently, I am putting these skills to work as a Software Engineer at **Oolka AI**.
 I am fascinated by numbers whether it's in engineering or in life, numbers play a key role in everything I do.I am deeply interested in **business** and how it working.
