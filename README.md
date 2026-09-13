@@ -7,7 +7,7 @@ Senior AI Engineer at Oolka AI
 I am passionate about **engineering** and **problem-solving** through software. Currently, I am putting these skills to work as a Software Engineer at **Oolka AI**.
 I am fascinated by numbers whether it's in engineering or in life, numbers play a key role in everything I do.I am deeply interested in **business** and how it working.
 
-Welcome to my GitHub! Feel free to explore my projects and reach out if you share  similar  interests.
+Welcome to my GitHub! Feel free to explore my projects and reach out if you share similar interests.
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Naamsukh&hide_border=true&border_radius=12.2)](https://git.io/streak-stats)
