@@ -9,8 +9,7 @@ I am fascinated by numbers whether it's in engineering or in life, numbers play 
 
 Welcome to my GitHub! Feel free to explore my projects and reach out if you share  similar  interests.
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Naamsukh&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Naamsukh&theme=calm)](https://git.io/streak-stats)
 
 ### Find me:
 
